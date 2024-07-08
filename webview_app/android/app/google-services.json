@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921846174509",
+    "project_id": "inappwebview-b3e0e",
+    "storage_bucket": "inappwebview-b3e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921846174509:android:94e347926b6f22658a79a4",
+        "android_client_info": {
+          "package_name": "com.example.webview_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfLcKyywCbpiyZrc2ydVpDqMtgv8isQAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
